@@ -1,0 +1,18 @@
+.count {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 15%;
+}
+
+.days,
+.hours,
+.minutes,
+.seconds {
+  display: inline;
+  margin: 10px;
+}
+
+.countdown-input {
+  font-size: 25px;
+  margin: 5px;  
+}
